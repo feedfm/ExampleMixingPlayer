@@ -1,0 +1,6 @@
+framework module Pods_ExampleMixingPlayer_ExampleMixingPlayerUITests {
+  umbrella header "Pods-ExampleMixingPlayer-ExampleMixingPlayerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

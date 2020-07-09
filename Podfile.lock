@@ -1,0 +1,22 @@
+PODS:
+  - FeedMedia (4.4.2):
+    - MarqueeLabel (~> 3.1.4)
+  - MarqueeLabel (3.1.6):
+    - MarqueeLabel/ObjC (= 3.1.6)
+  - MarqueeLabel/ObjC (3.1.6)
+
+DEPENDENCIES:
+  - FeedMedia
+
+SPEC REPOS:
+  trunk:
+    - FeedMedia
+    - MarqueeLabel
+
+SPEC CHECKSUMS:
+  FeedMedia: 41fc86733a3505f75b27c9099193d4dada81d6fa
+  MarqueeLabel: 0c41f08ef5773e29c0f71064a8fa788a2fd8b365
+
+PODFILE CHECKSUM: ffecc31a7f527949ff776fd1b70c1ce43879e0c2
+
+COCOAPODS: 1.8.3

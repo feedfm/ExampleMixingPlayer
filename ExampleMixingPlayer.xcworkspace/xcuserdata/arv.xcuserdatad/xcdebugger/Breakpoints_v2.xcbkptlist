@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8283D855-827D-4361-BD95-12C3B8B1F51E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "327F9FC0-5516-4532-A545-9EE099EFC289"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExampleMixingPlayer/ExampleMixingPlayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "add(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "327F9FC0-5516-4532-A545-9EE099EFC289 - 6ba55b0fbc4aa99b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExampleMixingPlayer.ExampleMixingPlayer.add(__C.FMAudioItem) -&gt; ()"
+                  moduleName = "ExampleMixingPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arv/Documents/ExampleMixingPlayer/ExampleMixingPlayer/ExampleMixingPlayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "170">
+               </Location>
+               <Location
+                  uuid = "327F9FC0-5516-4532-A545-9EE099EFC289 - 3ab072d8dcb114a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ExampleMixingPlayer.ExampleMixingPlayer.add(__C.FMAudioItem) -&gt; ()"
+                  moduleName = "ExampleMixingPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arv/Documents/ExampleMixingPlayer/ExampleMixingPlayer/ExampleMixingPlayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EC0202E-B4B7-42CD-9AA7-92218D46A755"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExampleMixingPlayer/ExampleMixingPlayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "add(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
